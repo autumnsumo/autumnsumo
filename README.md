@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a college student studying B.Tech from Malla Reddy University. <br>Chose CSE[Computer Science and Engineering] under the specialization of AIML[Artificial Intelligence and Machine Learning]<br>I'll be graduation in the year 2025
+I'm a college student studying B.Tech from Malla Reddy University. <br>Chose CSE[Computer Science and Engineering] under the specialization of AIML[Artificial Intelligence and Machine Learning]<br>I'll be graduating in the year 2025
 
 
 ## 🌐 Socials:
